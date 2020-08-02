@@ -1,0 +1,2 @@
+[web]
+192.168.43.133       ansible_ssh_user=username    ansible_ssh_pass=password
